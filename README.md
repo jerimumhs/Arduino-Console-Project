@@ -4,11 +4,11 @@ Este é um projeto que tem a finalidade de rodar jogos clássicos no arduíno.
 
 ### Jogos disponíveis e funcionando atualmente:
 
+<p float="left" align="center">
   <img src="https://pong-2.com/icon-256.png" alt="drawing" width="75" height="75"/>
- 
   <img src="http://static1.1.sqspcdn.com/static/f/278256/2640415/1236569464887/Jumpman+title.png" width="150" height="75"/>
-  
-  <img src="https://i.pinimg.com/originals/ce/f9/7d/cef97dac44f89093d4ddf106d4b1b503.gif" width="150" height="50" />
+  <img src="https://i.pinimg.com/originals/ce/f9/7d/cef97dac44f89093d4ddf106d4b1b503.gif" width="150" height="50"/>
+</p>
   
   
 ### Requisitos de hardware:
@@ -28,7 +28,7 @@ Este é um projeto que tem a finalidade de rodar jogos clássicos no arduíno.
 
   Esboço do circuito: [TinkerCad](https://www.tinkercad.com/things/frgQZiFRUYY#/)
 
-  Circuito Real: [YouTube]
+  Circuito Real: [YouTube](https://youtu.be/a1xw6hzLM7M)
 
 ### Observações Adicionais
 
